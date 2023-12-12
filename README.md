@@ -1,2 +1,3 @@
 # Assets
-Branding images
+Do **NOT** delete any assets from this repository!
+
